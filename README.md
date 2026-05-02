@@ -2,7 +2,7 @@
 Group Repo for CS 440 in Spring 2026. Contains Project Amethyst and Wizard Duel
 
 Authors:
-Ferdinand
+Alan Chen
+Ferdinand Lim
 Kareem Muftee
-Xavier
-Alan
+Xavier Hale
